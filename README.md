@@ -76,5 +76,3 @@ Web app will be live at: `http://localhost:5173`
 * [ ] Add user authentication for students and faculty.
 
 ---
-
-Once you hit **Commit changes** on GitHub, your project will look professional and ready for your next session. Great work today, Adi!
